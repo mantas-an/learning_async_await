@@ -6,6 +6,10 @@
 # asyncio - python biblioteka asinchroniniam (leidzia nelaukiant kol viena uzduotis baigsis
 # pries pradedant kita) programavimui.
 
+#Papildoma terminologija
+
+# aiohttp - Leidzia GET request is HTTP
+
 
 
 
